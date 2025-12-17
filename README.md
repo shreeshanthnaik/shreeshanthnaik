@@ -31,10 +31,20 @@
 <img src="https://github-readme-stats.vercel.app/api?username=shreeshanthnaik&theme=gruvbox&show_icons=true&hide_border=false" /><br/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreeshanthnaik&theme=gruvbox&layout=compact" />
 
+### 🏆 GitHub Trophies
+<img src="https://github-profile-trophy.vercel.app/?username=shreeshanthnaik&theme=gotham&no-frame=false" />
+
+---
+
+# ⏳ Weekly Activity:
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=shreeshanthnaik&theme=gruvbox&layout=compact" />
+
 ---
 
 ### 🎨 Random Dev Quote
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
 
 <br/>
+
+<img src="https://visitcount.itsvg.in/api?id=shreeshanthnaik&icon=6&color=2" />
 </div>
