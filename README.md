@@ -10,7 +10,7 @@
 ---
 
 ## 🎮 Live Status:
-<a href="https://discord.com/users/822763784534523924" target="blank"><img src="https://lanyard.wrapped.run/api/822763784534523924" alt="Discord Status" /></a>
+<a href="https://discord.com/users/747358079443533844" target="blank"><img src="https://lanyard.wrapped.run/api/747358079443533844" alt="Discord Status" /></a>
 
 ---
 
