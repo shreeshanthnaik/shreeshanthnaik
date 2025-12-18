@@ -4,7 +4,7 @@
 
 <br/>
 
-## 📡 [ ATTENTION: ACCESSING STARK INDUSTRIES DATABASE ]
+## 📡 [ ATTENTION: ACCESSING NAIK INDUSTRIES DATABASE ]
 
 | **System Status** | **Diagnostic Output** |
 | :--- | :--- |
