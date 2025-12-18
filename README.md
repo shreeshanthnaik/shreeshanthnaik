@@ -10,20 +10,19 @@
 ---
 
 ## 🎮 Live Status:
-<a href="https://discord.com/users/747358079443533844" target="blank"><img src="https://lanyard.wrapped.run/api/747358079443533844" alt="Discord Status" /></a>
+<a href="https://discord.com/users/747358079443533844" target="blank">
+<img src="https://lanyard.wrapped.run/api/747358079443533844" alt="Discord Status" />
+</a>
 
 ---
 
 ## 🌐 Socials:
-<a href="https://discord.gg/shreeshanthnaik" target="blank"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" alt="Discord" /></a>
-<a href="https://www.facebook.com/shreeshanth.naik" target="blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" alt="Facebook" /></a>
-<a href="https://www.instagram.com/shreeshanth.naik/" target="blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram" /></a>
-<a href="https://www.linkedin.com/in/shreeshanth-naik-195b83209" target="blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://in.pinterest.com/Shreenaik82/" target="blank"><img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white" alt="Pinterest" /></a>
-<a href="https://www.reddit.com/user/GoatLoose953/" target="blank"><img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white" alt="Reddit" /></a>
-<a href="https://www.twitch.tv/shreeshanthnaik" target="blank"><img src="https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white" alt="Twitch" /></a>
-<a href="https://x.com/Shreesh31107620" target="blank"><img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" alt="X" /></a>
-<a href="mailto:shreeshanthnaik@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://discord.gg/shreeshanthnaik" target="blank"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" /></a>
+<a href="https://www.facebook.com/shreeshanth.naik" target="blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" /></a>
+<a href="https://www.instagram.com/shreeshanth.naik/" target="blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/shreeshanth-naik-195b83209" target="blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" /></a>
+<a href="https://x.com/Shreesh31107620" target="blank"><img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" /></a>
+<a href="mailto:shreeshanthnaik@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
 
 ---
 
@@ -33,16 +32,16 @@
 ---
 
 # 📊 GitHub Stats:
-<img src="https://github-readme-stats.vercel.app/api?username=shreeshanthnaik&theme=gruvbox&show_icons=true&hide_border=false" /><br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreeshanthnaik&theme=gruvbox&layout=compact" />
+<img src="https://github-readme-stats.vercel.app/api?username=MrShreeN&theme=gruvbox&show_icons=true&hide_border=false" /><br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrShreeN&theme=gruvbox&layout=compact" />
 
 ### 🏆 GitHub Trophies
-<img src="https://github-profile-trophy.vercel.app/?username=shreeshanthnaik&theme=gotham&no-frame=false" />
+<img src="https://github-profile-trophy.vercel.app/?username=MrShreeN&theme=gotham&no-frame=false" />
 
 ---
 
 # 🐍 Contribution Snake:
-![Snake Animation](https://github.com/shreeshanthnaik/shreeshanthnaik/blob/output/github-contribution-grid-snake.svg)
+<img src="https://raw.githubusercontent.com/MrShreeN/MrShreeN/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 
 ---
 
@@ -51,5 +50,5 @@
 
 <br/>
 
-<img src="https://visitcount.itsvg.in/api?id=shreeshanthnaik&icon=6&color=2" />
+<img src="https://visitcount.itsvg.in/api?id=MrShreeN&icon=6&color=2" />
 </div>
