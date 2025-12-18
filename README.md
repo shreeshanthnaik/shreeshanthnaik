@@ -9,7 +9,7 @@
 | 💠 SYSTEM STATUS | 🟢 ONLINE |
 | :--- | :--- |
 | **USER** | Shreeshanth Naik |
-| **SECURITY** | MARK VII (STARK CLEARANCE) |
+| **SECURITY** | MARK VII (NAIK CLEARANCE) |
 | **MISSION** | Searching for the interested idea |
 | **POWER** | IMAGINATION CORE v1.0 |
 
