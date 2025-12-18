@@ -15,7 +15,7 @@
   "NEURAL_LEARNING": "Currently learning whatever I am doing.",
   "COMMS_CHANNEL": "STATUS: SILENT (Ask me about nothing)",
   "POWER_SOURCE": "IMAGINATION_CORE_v1.0"
-}
+
 🛰️ [ SUB-SYSTEM MODULES ]
 🛡️ [ COMBAT LANGUAGES ]
 🖥️ [ FRONT-END HUD & VISUALS ]
@@ -35,3 +35,4 @@
 <img src="https://www.google.com/search?q=https://visitcount.itsvg.in/api%3Fid%3Dshreeshanthnaik%26icon%3D6%26color%3D4" />
 
 </div>
+}
