@@ -52,8 +52,8 @@
 
 <br/>
 
-> *"Everything is ready for your arrival, Sir. Shall I activate the flight stabilizer?"*
-> — **J.A.R.V.I.S.**
+> *"Everything is ready for your arrival, Sir. Shall I activate your suite?"*
+> — **P.O.C.K.E.T.**
 
 <br/>
 
