@@ -12,12 +12,7 @@
 
 <table align="center">
   <tr>
-    <td align="center" width="90">
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGZ4eXF4aHcxYmx1bWJrb2t4b3Z4Ymx1bWJrb2t4b3Z4Ymx1bWJrb2t4b3Z4biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/L3ozb3fJiwJ9V22iQf/giphy.gif" width="60" />
-      <br/>
-      <b>CORE</b>
-    </td>
-    <td align="left">
+    <td align="center">
       <b>[ MISSION ]</b>: Searching for the interested idea.<br/>
       <b>[ STATUS ]</b>: <span style="color: #00D4FF;">ACTIVE 🔵</span><br/>
       <b>[ POWER ]</b>: IMAGINATION_CORE_v1.0
@@ -65,5 +60,6 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=50&section=footer&text=SYSTEM%20STANDBY...&fontSize=20&fontColor=00D4FF" />
 
 <br/>
+
 
 </div>
