@@ -11,7 +11,7 @@
 
 ## 🎮 Live Status:
 <a href="https://discord.com/users/747358079443533844" target="blank">
-<img src="https://lanyard.wrapped.run/api/747358079443533844" alt="Discord Status" />
+<img src="https://lanyard.wrapped.run/api/747358079443533844.png" alt="Discord Status" />
 </a>
 
 ---
@@ -32,16 +32,16 @@
 ---
 
 # 📊 GitHub Stats:
-<img src="https://github-readme-stats.vercel.app/api?username=MrShreeN&theme=gruvbox&show_icons=true&hide_border=false" /><br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrShreeN&theme=gruvbox&layout=compact" />
+<img src="https://github-readme-stats.vercel.app/api?username=shreeshanthnaik&theme=gruvbox&show_icons=true&hide_border=false" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreeshanthnaik&theme=gruvbox&layout=compact" />
 
 ### 🏆 GitHub Trophies
-<img src="https://github-profile-trophy.vercel.app/?username=MrShreeN&theme=gotham&no-frame=false" />
+<img src="https://github-profile-trophy.vercel.app/?username=shreeshanthnaik&theme=gotham&no-frame=false" />
 
 ---
 
 # 🐍 Contribution Snake:
-<img src="https://raw.githubusercontent.com/MrShreeN/MrShreeN/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+<img src="https://raw.githubusercontent.com/shreeshanthnaik/shreeshanthnaik/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 
 ---
 
@@ -50,5 +50,5 @@
 
 <br/>
 
-<img src="https://visitcount.itsvg.in/api?id=MrShreeN&icon=6&color=2" />
+<img src="https://visitcount.itsvg.in/api?id=shreeshanthnaik&icon=6&color=2" />
 </div>
