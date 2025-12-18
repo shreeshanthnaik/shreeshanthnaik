@@ -66,6 +66,4 @@
 
 <br/>
 
-<img src="https://visitcount.itsvg.in/api?id=shreeshanthnaik&icon=6&color=4" />
-
 </div>
